@@ -1,0 +1,56 @@
+body {
+    background-image: url("matt-nelson-aI3EBLvcyu4-unsplash.jpg");
+    background-size: cover;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+
+.container {
+    background: rgba(255, 255, 255, 0.575);
+    max-width: 80%;
+    margin: auto;
+    margin-top: 100px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+
+h1 {
+    font-size: 3rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 3rem;
+}
+
+button {
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgb(191, 22, 243);
+}
+
+#save-btn {
+    background: indigo
+}
+
+#save-el {
+ font-size: 3rem;
+ font-weight: bold;
+ color: rgb(25, 3, 105)
+}
+
